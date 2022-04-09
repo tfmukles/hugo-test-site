@@ -1,9 +1,9 @@
 ---
-title: Hi, I Am John Doe
+title: Hey, I'm Farhad
 image: images/author-full.jpg
 email: sojonatmail@gmail.com
 description: This is meta description
-layout: homepage
+layout: about
 social:
 - icon: fab fa-facebook
   link: https://facebook.com/faaarhadhossen
@@ -27,8 +27,8 @@ Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cumto sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
 
-* In enim justo, rhoncus ut,
-* Curabitur ullamcorper ultricies
-* Donec vitae sapien utlorem
+* Search Engine Optimization
+* Project management 
+* Technical Content Writing
 
 Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.

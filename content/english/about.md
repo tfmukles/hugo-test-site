@@ -3,7 +3,7 @@ title: Hi, I Am John Doe
 image: images/author-full.jpg
 email: sojonatmail@gmail.com
 description: This is meta description
-layout: about
+layout: homepage
 social:
 - icon: fab fa-facebook
   link: https://facebook.com/faaarhadhossen

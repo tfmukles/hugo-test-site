@@ -6,13 +6,13 @@ description: This is meta description
 layout: about
 social:
 - icon: fab fa-facebook
-  link: https://facebook.com
+  link: https://facebook.com/faaarhadhossen
 - icon: fab fa-twitter
-  link: https://twitter.com
+  link: https://twitter.com/faarhadhossen
 - icon: fab fa-instagram
   link: https://instagram.com
 - icon: fab fa-linkedin-in
-  link: https://linkedin.com
+  link: https://linkedin.com/faarhadhossen
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor, et dictum

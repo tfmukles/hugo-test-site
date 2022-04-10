@@ -1,17 +1,17 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/logbook/"
-title = "LogBook | Hugo Personal Blog Template"
+baseURL = "https://fhrony.com/"
+title = "FH Rony | Personal Portfolio Website"
 theme = "logbook"
 # post pagination
-paginate = "5"
+paginate = "4"
 # post excerpt
-summaryLength = "50"
+summaryLength = "10"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disqus short name
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["fr"] # desable language from here
 
 ############################# Modules ##############################
 [module]

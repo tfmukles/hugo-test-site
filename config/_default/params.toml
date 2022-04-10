@@ -6,7 +6,7 @@ logo = "images/logo.png"
 # use `x` with logo_width, example: "100x"
 logo_width = "150x"
 # logo text will only show when logo is missing.
-logo_text = "LogBook"
+logo_text = "Logbook"
 page_not_found_image = "images/404.png" # 404 error page image
 # image gallery shortcode
 image_gallery = true
@@ -21,7 +21,7 @@ mainSections = ["post"]
 # featured post
 featured_post = true
 # layout
-post_layout = "grid" # layout value (full, grid or list)
+post_layout = "full" # layout value (full, grid or list)
 # Sidebar
 sidebar = "right" # sidebar value (left, right or false)
 # custom script on header
@@ -29,12 +29,12 @@ custom_script= ""
 
 # Preloader
 [preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "images/logo.png" # use jpg, png, svg or gif format.
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -48,17 +48,17 @@ currency = "$"
 
 # promotion
 [promotion]
-title = "Create Stunning Website!!"
+title = "Best Digital Marketing Expert In Bangladesh"
 content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
 image = "images/promotion.jpg"
-button_label = "Get Started"
+button_label = "Book A Meeting"
 button_link = "https://themefisher.com/"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+keywords = ["Digital Marketing", "SEO", "SMM", "Google Ads"]
+description = "Are you looking for the best digital marketing expert in Bangladesh? I've working in this industry for more then 12 years!"
+author = "Farhad"
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -91,15 +91,16 @@ facebook = "" # Your verification code
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+button = "I Accept" 
+
 
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["search", "about-me", "promotion", "subscription", "categories", "recent-post", "tags", "social"]
+sidebar = ["promotion", "subscription", "categories", "recent-post", "tags", "social"]
 # available widget : search,about-me,categories,tags,recent-post,social,promotion,subscription
 
 

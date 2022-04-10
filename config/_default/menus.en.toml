@@ -121,7 +121,7 @@ weight = 5
 
 # footer menu
 [[footer]]
-name = "About"
+name = "About_Us"
 url = "about"
 weight = 1
 

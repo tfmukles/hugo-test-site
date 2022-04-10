@@ -1,0 +1,4 @@
+github.com/gethugothemes/hugo-modules/shortcodes/table-of-contents v0.0.0-20220406060412-a90f429183fc h1:LoJVSE3b4IWMMXW1pua+b0/jc6ULLI3BQk47Ou8iKwM=
+github.com/gethugothemes/hugo-modules/shortcodes/table-of-contents v0.0.0-20220406060412-a90f429183fc/go.mod h1:E23tqmkeXRMR8IU8hTpG2oPM23MqV2FvCMcR1Xhg7nk=
+github.com/gethugothemes/hugo-modules/shortcodes/youtube-lite v0.0.0-20220406060412-a90f429183fc h1:8kQkD6pvbjm9uVb407Jc/Zqrp9/z7vuxWgcfB+ldMzg=
+github.com/gethugothemes/hugo-modules/shortcodes/youtube-lite v0.0.0-20220406060412-a90f429183fc/go.mod h1:PPyKn2XwfX8A8jt8J24w6XpTOFpsiDk6kz7/HfsF+Jc=

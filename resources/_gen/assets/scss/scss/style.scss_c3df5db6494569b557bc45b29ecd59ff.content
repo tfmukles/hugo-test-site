@@ -1339,6 +1339,37 @@ iframe.wait-autoplay {
   .gallery .gallery-item {
     width: calc(100% - 20px) !important; } }
 
+.table-of-content {
+  margin: 1rem 0 1.5rem; }
+  .table-of-content summary {
+    font-size: 18px;
+    color: #fff;
+    background-color: #555;
+    padding: 5px 20px;
+    margin-bottom: 0 !important; }
+  .table-of-content ul li::before {
+    display: none; }
+  .table-of-content #TableOfContents {
+    padding: 10px;
+    background-color: #f7f7f7; }
+    .table-of-content #TableOfContents li,
+    .table-of-content #TableOfContents a {
+      color: #333 !important; }
+    .table-of-content #TableOfContents a {
+      text-decoration: none; }
+      .table-of-content #TableOfContents a:hover {
+        text-decoration: underline; }
+
+.content .table-of-content ul li,
+.content .table-of-content ol li {
+  margin-bottom: 6px !important; }
+
+.dark #TableOfContents {
+  background-color: #333; }
+  .dark #TableOfContents li,
+  .dark #TableOfContents a {
+    color: #fff !important; }
+
 .featured-post {
   position: relative; }
   .featured-post-slider .slick-dots {

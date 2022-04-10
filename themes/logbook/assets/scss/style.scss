@@ -32,4 +32,9 @@ $icon-font: '{{.icon_font | default "Font Awesome 5 Free"}}';
 @import 'templates/image_gallery.scss';
 {{ end }}
 
+@import 'toc';
+
+
+
+
 @import 'templates/main.scss';

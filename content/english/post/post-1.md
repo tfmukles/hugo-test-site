@@ -1,20 +1,15 @@
 ---
-title: "This is Blog Post #1"
-date: 2020-03-14T15:40:24+06:00
-# post thumb
+title: Hello Zeon CMS!
+date: 2020-03-14T09:40:24.000Z
 images:
-  - "images/post/post-1.jpg"
-#author
-author: "John Doe"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["photography"]
-tags: ["photo"]
-type: "regular" # available type (regular or featured)
+  - images/post/post-1.jpg
+author: Farhad
+description: This is meta testing...
+categories: []
+tags: []
+type: regulars
 draft: false
 ---
-
 This is custom text!
 
 {{< image src="images/post/post-3.jpg" caption="Image using shortcode" alt="alter-text" height="500" width="900" position="center" command="fill" option="q10 r90" class="img-fluid" title="Image Title" webp="true" >}}

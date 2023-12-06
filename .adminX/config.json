@@ -1,0 +1,14 @@
+{
+  "environment": "hugo",
+  "media": {
+    "root": "assets",
+    "public": "assets"
+  },
+  "content": {
+    "root": "content"
+  },
+  "themeConfig": [
+    "config/_default",
+    "config.toml"
+  ]
+}

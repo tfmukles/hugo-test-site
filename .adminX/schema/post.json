@@ -18,7 +18,7 @@
     {
       "label": "images",
       "name": "images",
-      "type": "Array<media>"
+      "type": "gallery"
     },
     {
       "label": "author",

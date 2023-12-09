@@ -1,0 +1,51 @@
+{
+  "fileType": "md",
+  "fmType": "yaml",
+  "include": "",
+  "exclude": "",
+  "name": "english",
+  "template": [
+    {
+      "label": "title",
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "label": "image",
+      "name": "image",
+      "type": "media"
+    },
+    {
+      "label": "email",
+      "name": "email",
+      "type": "string"
+    },
+    {
+      "label": "description",
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "label": "layout",
+      "name": "layout",
+      "type": "string"
+    },
+    {
+      "label": "social",
+      "name": "social",
+      "type": "Array",
+      "fields": [
+        {
+          "label": "icon",
+          "name": "icon",
+          "type": "string"
+        },
+        {
+          "label": "link",
+          "name": "link",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}

@@ -4,10 +4,6 @@ date: 2022-03-14T15:40:24+06:00
 # post thumb
 images:
 - "images/post/post-2.jpg"
-- "images/post/post-2.jpg"
-- "images/post/post-2.jpg"
-- "images/post/post-2.jpg"
-- "images/post/post-2.jpg"
 #author
 author: "John Doe"
 # description

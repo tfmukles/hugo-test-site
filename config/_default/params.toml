@@ -1,4 +1,4 @@
-favicon = "media/assets/images/404.png"
+favicon = "media/assets/images/ADCL_7224.jpg"
 logo = "images/logo.png"
 logo_width = "150x"
 logo_text = "Logbook"
@@ -13,64 +13,64 @@ post_layout = "full"
 sidebar = "right"
 custom_script = ""
 
-  [data.preloader]
-  enable = true
-  preloader = "images/logo.png"
+[data.preloader]
+enable = true
+preloader = "images/logo.png"
 
-  [data.subscription]
-  enable = false
-  mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-  mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+[data.subscription]
+enable = false
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 
-  [data.snipcart]
-  enable = true
-  snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
-  currency = "$"
+[data.snipcart]
+enable = true
+snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+currency = "$"
 
-  [data.promotion]
-  title = "Best Digital Marketing Expert In Bangladesh"
-  content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
-  image = "images/promotion.jpg"
-  button_label = "Book A Meeting"
-  button_link = "https://themefisher.com/"
+[data.promotion]
+title = "Best Digital Marketing Expert In Bangladesh"
+content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
+image = "images/promotion.jpg"
+button_label = "Book A Meeting"
+button_link = "https://themefisher.com/"
 
-  [data.metadata]
-  keywords = [ "Digital Marketing", "SEO", "SMM", "Google Ads" ]
-  description = "Are you looking for the best digital marketing expert in Bangladesh? I've working in this industry for more then 12 years!"
-  author = "Farhad"
-  image = "images/favicon.png"
+[data.metadata]
+keywords = [ "Digital Marketing", "SEO", "SMM", "Google Ads" ]
+description = "Are you looking for the best digital marketing expert in Bangladesh? I've working in this industry for more then 12 years!"
+author = "Farhad"
+image = "images/favicon.png"
 
-  [data.matomo]
-  enable = false
-  url = ""
-  id = ""
+[data.matomo]
+enable = false
+url = ""
+id = ""
 
-  [data.baidu]
-  enable = false
-  analytics_id = ""
+[data.baidu]
+enable = false
+analytics_id = ""
 
-  [data.plausible]
-  enable = false
-  domain = ""
+[data.plausible]
+enable = false
+domain = ""
 
-  [data.counter]
-  enable = false
-  username = ""
+[data.counter]
+enable = false
+username = ""
 
-  [data.site_verification]
-  google = ""
-  bing = ""
-  baidu = ""
-  facebook = ""
+[data.site_verification]
+google = ""
+bing = ""
+baidu = ""
+facebook = ""
 
-  [data.cookies]
-  enable = true
-  expire_days = 2
-  content = "This site uses cookies. By continuing to use this website, you agree to their use."
-  button = "I Accept"
+[data.cookies]
+enable = true
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
 
-  [data.widgets]
-  sidebar = [
+[data.widgets]
+sidebar = [
   "promotion",
   "subscription",
   "categories",
@@ -79,22 +79,22 @@ custom_script = ""
   "social"
 ]
 
-  [[data.social]]
-  name = "facebook"
-  icon = "fab fa-facebook"
-  link = "#"
+[[data.social]]
+name = "facebook"
+icon = "fab fa-facebook"
+link = "#"
 
-  [[data.social]]
-  name = "twitter"
-  icon = "fab fa-twitter"
-  link = "#"
+[[data.social]]
+name = "twitter"
+icon = "fab fa-twitter"
+link = "#"
 
-  [[data.social]]
-  name = "linkedin"
-  icon = "fab fa-linkedin-in"
-  link = "#"
+[[data.social]]
+name = "linkedin"
+icon = "fab fa-linkedin-in"
+link = "#"
 
-  [[data.social]]
-  name = "github"
-  icon = "fab fa-github"
-  link = "#"
+[[data.social]]
+name = "github"
+icon = "fab fa-github"
+link = "#"

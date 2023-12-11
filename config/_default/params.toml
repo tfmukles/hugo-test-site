@@ -1,7 +1,3 @@
-images = [ ]
-page_content = ""
-
-[data]
 favicon = "media/assets/images/404.png"
 logo = "images/logo.png"
 logo_width = "150x"

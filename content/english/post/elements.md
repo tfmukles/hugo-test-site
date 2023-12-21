@@ -1,5 +1,5 @@
 ---
-title: Mokles
+title: Faruk bhai
 date: '2020-03-15T09:40:24.000Z'
 images:
   - images/post/post-6.jpg
@@ -15,7 +15,6 @@ tags:
 type: regular
 draft: false
 ---
-
 #### Heading example
 
 Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.

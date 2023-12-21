@@ -1,8 +1,8 @@
 ---
-title: ''
-image: ''
-email: ''
+title: Title
+image: Mokles
+email: mukles.themefisher@gmail.com
 social:
-  - icon: ''
-    link: ''
+  - icon: FaInstagram
+    link: https://instagram.com
 ---

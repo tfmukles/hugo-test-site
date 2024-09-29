@@ -1,8 +1,7 @@
 {
-  "environment": "hugo",
   "media": {
-    "root": "assets",
-    "public": "assets"
+    "root": "static",
+    "public": "static"
   },
   "content": {
     "root": "content"
@@ -10,5 +9,6 @@
   "themeConfig": [
     "config/_default",
     "config.toml"
-  ]
+  ],
+  "arrangement": {}
 }

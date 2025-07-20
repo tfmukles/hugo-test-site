@@ -1,16 +1,11 @@
 ---
-title: "Side Bag"
-date: 2020-03-14T15:40:24+06:00
-# post thumb
+title: Side Bag
+date: '2020-03-14T09:40:24.000Z'
 images:
-  - "images/shop/product-2.jpg"
-
-# product Price
-price: "30.00"
-discount_price: ""
-
-# description
-description: "This is meta description"
+  - images/shop/product-2.jpg
+price: '30.00'
+discount_price: '30.00'
+description: This is meta description
 draft: false
 ---
 

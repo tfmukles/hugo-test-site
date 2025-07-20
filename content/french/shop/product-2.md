@@ -1,6 +1,6 @@
 ---
 title: Side Bag
-date: '2020-03-14T09:40:24.000Z'
+date: 2025-07-17T09:40:00.000Z
 images:
   - images/shop/product-2.jpg
 price: '30.00'

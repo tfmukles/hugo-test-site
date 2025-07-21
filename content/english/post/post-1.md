@@ -1,11 +1,14 @@
 ---
 title: Hello Zeon CMS!
-date: 2020-03-14T09:40:24.000Z
+date: '2020-03-14T09:40:24.000Z'
 images:
   - images/post/post-1.jpg
 author: Farhad
 description: This is meta testing...
-categories: []
+categories:
+  - cat-1
+  - cat-2
+  - cat-3
 tags: []
 type: regulars
 draft: false

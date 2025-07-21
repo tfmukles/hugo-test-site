@@ -1,0 +1,59 @@
+{
+  "file": "content/english/post/post-1.md",
+  "name": "post",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Date",
+      "name": "date",
+      "type": "Date",
+      "value": "2020-03-14T09:40:24.000Z"
+    },
+    {
+      "label": "Images",
+      "name": "images",
+      "type": "gallery"
+    },
+    {
+      "label": "Author",
+      "name": "author",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Categories",
+      "name": "categories",
+      "type": "Array"
+    },
+    {
+      "label": "Tags",
+      "name": "tags",
+      "type": "Array"
+    },
+    {
+      "label": "Type",
+      "name": "type",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Draft",
+      "name": "draft",
+      "type": "boolean",
+      "value": ""
+    }
+  ]
+}

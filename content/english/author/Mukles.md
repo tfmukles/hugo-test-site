@@ -1,6 +1,6 @@
 ---
 title: This is title.
-image: Mokles
+image: /images/author.jpg
 email: mukles.themefisher@gmail.com
 social:
   - icon: FaInstagram

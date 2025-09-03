@@ -6,6 +6,9 @@
   "content": {
     "root": "content"
   },
+  "code": {
+    "root": "themes/logbook/layouts"
+  },
   "themeConfig": [],
   "arrangement": [],
   "showCommitModal": false
